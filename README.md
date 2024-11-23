@@ -1,6 +1,7 @@
 1.README.md
 
 AI-Powered Assistive Tool for Visually Impaired Individuals
+
 streamlit run app.py
 
 
@@ -42,3 +43,4 @@ pytesseract
 gTTS
 ultralytics
 
+4.Replace with your Original OpenAi API Key
